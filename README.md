@@ -39,6 +39,21 @@ python experiment.py
 
 ![Screenshot](83408.png)
 
+## Setup: API Tokens
+
+This project requires a **Hugging Face token** and a **Weights & Biases token**.
+
+### Hugging Face Token
+
+1. Sign up at [huggingface.co](https://huggingface.co/join).
+2. Generate a token at [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) (Read access is sufficient for downloading models).
+**Gated models** (e.g., Llama) require you to visit the model page on Hugging Face and submit an access request form before you can download them with your token. Approval is usually quick but not instant.
+
+### Weights & Biases Token
+
+1. Sign up at [wandb.ai](https://wandb.ai/site).
+2. Copy your API key from [wandb.ai/authorize](https://wandb.ai/authorize).
+
 ## Citation
 
 ```bibtex
