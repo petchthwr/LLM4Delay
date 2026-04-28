@@ -47,7 +47,7 @@ This project requires a **Hugging Face token** and a **Weights & Biases token**.
 
 1. Sign up at [huggingface.co](https://huggingface.co/join).
 2. Generate a token at [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) (Read access is sufficient for downloading models).
-**Gated models** (e.g., Llama) require you to visit the model page on Hugging Face and submit an access request form before you can download them with your token. Approval is usually quick but not instant.
+> **Gated models** (e.g., Llama) require you to visit the model page on Hugging Face and submit an access request form before you can download them with your token. Approval is usually quick but not instant.
 
 ### Weights & Biases Token
 
